@@ -9,11 +9,6 @@ Download .sql file for this application: https://drive.google.com/file/d/0Bw-qNY
 Download required third party plugins (includes JCalender, JTattoo and SQLConnector) : https://drive.google.com/file/d/0Bw-qNYNSGhdCMU1mekN4SmRCb1E/view?usp=sharing&resourcekey=0-mynFCWwHM0l7oUuBwDIVbw
 
 Download the software only: https://drive.google.com/file/d/0Bw-qNYNSGhdCbVdSdzZHX0pZOFE/view?usp=sharing&resourcekey=0-Q9wY-we5-vgs26YpPMrYaQ
-
-Download full documentation for free: 
-- https://www.scribd.com/doc/296989740/InventoryManagementSystem-Sajan-Rajbhandari  
-- [Inventory-Management-System-Sajan-Rajbhandari.pdf](https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf)
-
 Credentials:
 
 After importing the above sql file and adding the plugins, try using the credential username: `user4` and password: `test123`
